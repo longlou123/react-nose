@@ -1,0 +1,58 @@
+.bigDiv{
+	width:800px;
+	height: 100%;
+	background-color: #D3D3D3;
+	text-align: center;
+	margin: 0 auto;
+}
+.div_list{
+	display: inline-block;
+	width: 100px;
+	height: 400px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+.list{
+	margin: 0; 
+	padding: 0;
+	margin-right: 5px;
+	width: 98%;
+	list-style: none;
+	display: inline-block;
+	vertical-align: top;
+}
+.list_li{
+	padding: 5px;	
+	margin:4px;
+	background: red;
+	cursor: pointer;
+}
+.button{
+	height:100%;
+	width: 100%;
+	background: red; 
+	cursor: pointer;
+}
+.list_li:hover{
+	background: #D3f3D6; 
+}
+.img{
+	width:400px;
+	height: 400px;
+	display: inline-block; 
+}
+.input{
+	height:300px;
+	width: 100%;
+}
+.input div{
+	height:50px;
+	width: 100%;
+	line-height: 50px;
+}
+.img_DIV{
+	display: inline-block;
+	width:80px;
+	height: 80px;
+	border: 1px solid red; 
+}
